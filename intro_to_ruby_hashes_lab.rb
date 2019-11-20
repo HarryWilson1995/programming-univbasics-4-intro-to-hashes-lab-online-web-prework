@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- Hash.new = {
+ new_hash = {
     :New_York => "NY",
     :Oregon => "OR"
   }
